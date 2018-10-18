@@ -25,7 +25,12 @@ function divide(a,b) {return (a/=b)}
 //increment
 var a = Math.floor(Math.random() * 1000); 
 
-function
+function inc(a) {return a++}
+
+//decrement
+var a = Math.floor(Math.random() * 1000); 
+
+function dec(a) {return a--}
 
 
 
