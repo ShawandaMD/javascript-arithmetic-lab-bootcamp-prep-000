@@ -36,6 +36,7 @@ function dec(a) {return --a}
 var a = Math.floor(Math.random() * 1000); 
 a.toString()
 
+function makeInt
 
 
 
