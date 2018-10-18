@@ -32,6 +32,10 @@ var a = Math.floor(Math.random() * 1000);
 
 function dec(a) {return --a}
 
+// parse Interger
+var a = Math.floor(Math.random() * 1000); 
+a.toString()
+
 
 
 
