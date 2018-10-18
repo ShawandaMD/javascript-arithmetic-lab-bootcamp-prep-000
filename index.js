@@ -38,6 +38,11 @@ a.toString()
 
 function makeInt(a) {return parseInt(a,10)}
 
+//floating decimal
+var n = '2.222'
+
+function preserveDecimal(n) {return parseFloat(n)}
+
 
 
 
